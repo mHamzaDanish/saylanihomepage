@@ -1,0 +1,129 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    background-color: #FFFFFF!important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+    color: #316DC3;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.counter {
+    background-color: #2655E8;
+    color: white;
+}
+
+.counter .second-text {
+    color: #00FF00;
+}
+
+h2,
+h3 {
+    color: #316DC3;
+    font-weight: bold;
+    font-family: serif;
+    margin-top: 20px;
+}
+
+.second-text {
+    color: #427900;
+}
+
+.social {
+    color: white;
+}
+
+.social h6 {
+    font-size: 14px!important;
+}
+
+.social .btn {
+    width: auto;
+    height: 31px;
+    font-size: 12px!important;
+    background-color: white!important;
+    color: black;
+}
+
+footer .copyright {
+    color: white;
+    background-color: #2655E8;
+}
+
+footer .contact {
+    background-color: #25272E;
+    color: white;
+}
+
+footer .contact i {
+    color: greenyellow;
+}
+
+footer .list-group-item {
+    list-style: none!important;
+    background-color: #25272E;
+    font-size: 12px;
+    margin-bottom: -2px!important;
+}
+
+.cwu i {
+    background-color: blue;
+    color: whitesmoke!important;
+    border-radius: 40%;
+    width: 7%;
+    height: auto;
+}
+
+.mission .cdr {
+    background-color: #F7F8FA;
+    padding: 5%;
+}
+
+hr {
+    border: 1px solid black;
+    margin-top: -3px;
+    text-align: left;
+    width: 10%;
+    display: inline-block;
+}
+
+.title::before {
+    content: "___";
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.title::after {
+    content: "___";
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.what,
+.Intro {
+    background-color: #F7F8FA;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    background-color: #316DC3;
+    color: white;
+    border-radius: 25px;
+}
+
+.nav-pills li.active a {
+    background-color: #316DC3!important;
+    color: white!important;
+    border-radius: 25px!important;
+}
+
+.second-text2 {
+    color: greenyellow;
+}

@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+label {
+    margin-top: 2%;
+    display: inline-block;
+    width: 200px;
+    text-align: left;
+    margin-left: 2%;
+}
+
+input {
+    height: 23px;
+}
+
+.main {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+table {
+    display: inline-block;
+}
+
+.btn-center {
+    margin-top: 50px;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.container {
+    margin: 0px 15%;
+    background-color: #6C59CC;
+    color: white;
+    font-size: 18px;
+}
+
+.formtop {
+    vertical-align: top;
+}
+
+table>input {
+    width: 50%;
+}
